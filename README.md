@@ -9,6 +9,10 @@
 - **Frontend**: React, Material-UI (MUI)
 - **Аутентификация**: JWT токены
 - **База данных**: PostgreSQL (продакшн) или SQLite (разработка)
+<img width="2052" height="1105" alt="Снимок экрана 2025-12-01 в 22 07 59" src="https://github.com/user-attachments/assets/0cfa03ac-e0c9-47bc-a8a7-36d14cf6c826" />
+<img width="2051" height="1105" alt="Снимок экрана 2025-12-01 в 22 07 24" src="https://github.com/user-attachments/assets/b130f8ec-2078-46c8-96c2-c6f75bed3200" />
+<img width="2040" height="1106" alt="Снимок экрана 2025-12-01 в 22 08 09" src="https://github.com/user-attachments/assets/ce66981b-2c59-41ee-a416-327cdffa4e8a" />
+<img width="2054" height="1105" alt="Снимок экрана 2025-12-01 в 22 08 18" src="https://github.com/user-attachments/assets/6e02aa40-4885-4912-ac35-ff95e6c6f56a" />
 
 ## 📋 Функционал
 

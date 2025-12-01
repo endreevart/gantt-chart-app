@@ -1,3 +1,4 @@
+<img width="2036" height="1107" alt="Снимок экрана 2025-12-01 в 22 07 14" src="https://github.com/user-attachments/assets/c11f9f0b-d073-4c94-87b0-c82bdc7b3983" />
 # Gantt Chart Application
 
 Приложение для управления задачами с визуализацией в виде Gantt-диаграммы, календаря и аналитики.

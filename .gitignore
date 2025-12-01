@@ -9,6 +9,17 @@ venv/
 ENV/
 .venv
 
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+gantt.db
+
+# Logs
+*.log
+server.log
+/tmp/
+
 # Node
 node_modules/
 npm-debug.log*
@@ -24,6 +35,10 @@ build/
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Environment variables
+.env
+.env.local
 
 # IDE
 .vscode/
